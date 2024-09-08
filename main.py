@@ -14,3 +14,6 @@ with col2:
     Seeking my first full-time role in Data Analytics / Software
     Engineer with a major in Data Analytics"""
     st.info(content)
+
+intro = """Below are some of the apps I have built in Python."""
+st.text(intro)
