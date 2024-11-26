@@ -4,7 +4,7 @@ import os
 
 st.set_page_config(layout='wide')
 image_path = os.path.join(os.getcwd(), "images/photo.png")
-left_col, cent_col, last_col = st.columns(3)
+left_col1, left_col, cent_col, last_col, last_col1 = st.columns(5)
 with cent_col:
     st.image(image_path)
 
