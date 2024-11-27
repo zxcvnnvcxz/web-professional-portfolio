@@ -2,3 +2,6 @@ venv
 .idea
 buy_domain_steps
 https://ek-zxcv-web-junior-portfolio.streamlit.app/
+__pycache__/
+*.pyc
+.env
