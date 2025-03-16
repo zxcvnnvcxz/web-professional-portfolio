@@ -15,7 +15,7 @@ with st.container():
         <div style="text-align: center;">
             <h1>Edward Kang</h1>
             <p>
-                Hi, I am ! I've worked as a dynamic IT Support Technician with experience in event translation, 
+                Hi, I'm Edward! I've worked as a dynamic IT Support Technician with experience in event translation, 
                 eager to return to work after a year of exchange abroad in Japan.
                 Below are some of the apps I have built in Python.
             </p>
